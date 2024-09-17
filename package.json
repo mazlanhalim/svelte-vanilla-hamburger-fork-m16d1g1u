@@ -1,0 +1,7 @@
+{
+  "name": "@components-studio/mazlanhalim.svelte-vanilla-hamburger-fork-m16d1g1u",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx cso-cli@latest serve D9Xb05fQqwK3zjDZMZLS --open"
+  }
+}

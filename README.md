@@ -1,2 +1,3 @@
-# svelte-vanilla-hamburger-fork-m16d1g1u
-Example of using vanilla-hamburger with Svelte
+# Using vanilla-hamburger with Svelte
+
+See [vanilla-hamburger](https://github.com/web-padawan/vanilla-hamburger) for the documentation and more examples.
